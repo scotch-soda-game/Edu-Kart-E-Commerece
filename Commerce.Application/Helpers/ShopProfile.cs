@@ -9,6 +9,12 @@ namespace Commerce.Application.Helpers
     {
         public ShopProfile()
         {
+            CreateMap<Shop, ShopDto>().ReverseMap();
+            CreateMap<Product, ProductDto>().ReverseMap();
+            CreateMap<Category, CategoryDto>().ReverseMap();
+            CreateMap<Customer, CustomerDto>().ReverseMap();
+            CreateMap<Address, AddressDto>().ReverseMap();
+            CreateMap<ShoppingSession, ShoppingSessionDto>().ReverseMap();
             CreateMap<CartItem, CartItemDto>().ReverseMap();
             CreateMap<User, UserDto>().ReverseMap();
             CreateMap<User, UserRegisterDto>().ReverseMap();

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.API\\Commerce.API.csproj": {}
+    "D:\\Hacktober\\Commerce.API\\Commerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.API\\Commerce.API.csproj": {
+    "D:\\Hacktober\\Commerce.API\\Commerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.API\\Commerce.API.csproj",
+        "projectUniqueName": "D:\\Hacktober\\Commerce.API\\Commerce.API.csproj",
         "projectName": "Commerce.API",
-        "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.API\\Commerce.API.csproj",
-        "packagesPath": "C:\\Users\\tihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.API\\obj\\",
+        "projectPath": "D:\\Hacktober\\Commerce.API\\Commerce.API.csproj",
+        "packagesPath": "C:\\Users\\nidhi06\\.nuget\\packages\\",
+        "outputPath": "D:\\Hacktober\\Commerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nidhi06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\Commerce.Application.csproj": {
-                "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\Commerce.Application.csproj"
+              "D:\\Hacktober\\Commerce.Application\\Commerce.Application.csproj": {
+                "projectPath": "D:\\Hacktober\\Commerce.Application\\Commerce.Application.csproj"
               }
             }
           }
@@ -91,12 +92,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -105,24 +100,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\Commerce.Application.csproj": {
+    "D:\\Hacktober\\Commerce.Application\\Commerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\Commerce.Application.csproj",
+        "projectUniqueName": "D:\\Hacktober\\Commerce.Application\\Commerce.Application.csproj",
         "projectName": "Commerce.Application",
-        "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\Commerce.Application.csproj",
-        "packagesPath": "C:\\Users\\tihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Application\\obj\\",
+        "projectPath": "D:\\Hacktober\\Commerce.Application\\Commerce.Application.csproj",
+        "packagesPath": "C:\\Users\\nidhi06\\.nuget\\packages\\",
+        "outputPath": "D:\\Hacktober\\Commerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nidhi06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,11 +132,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj"
+              "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj": {
+                "projectPath": "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj"
               },
-              "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\Commerce.Persistence.csproj": {
-                "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\Commerce.Persistence.csproj"
+              "D:\\Hacktober\\Commerce.Persistence\\Commerce.Persistence.csproj": {
+                "projectPath": "D:\\Hacktober\\Commerce.Persistence\\Commerce.Persistence.csproj"
               }
             }
           }
@@ -188,24 +184,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj": {
+    "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj",
+        "projectUniqueName": "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj",
         "projectName": "Commerce.Domain",
-        "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj",
-        "packagesPath": "C:\\Users\\tihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\obj\\",
+        "projectPath": "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj",
+        "packagesPath": "C:\\Users\\nidhi06\\.nuget\\packages\\",
+        "outputPath": "D:\\Hacktober\\Commerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nidhi06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -252,24 +249,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\Commerce.Persistence.csproj": {
+    "D:\\Hacktober\\Commerce.Persistence\\Commerce.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\Commerce.Persistence.csproj",
+        "projectUniqueName": "D:\\Hacktober\\Commerce.Persistence\\Commerce.Persistence.csproj",
         "projectName": "Commerce.Persistence",
-        "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\Commerce.Persistence.csproj",
-        "packagesPath": "C:\\Users\\tihal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Persistence\\obj\\",
+        "projectPath": "D:\\Hacktober\\Commerce.Persistence\\Commerce.Persistence.csproj",
+        "packagesPath": "C:\\Users\\nidhi06\\.nuget\\packages\\",
+        "outputPath": "D:\\Hacktober\\Commerce.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\tihal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nidhi06\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -283,8 +281,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\tihal\\Downloads\\FOM Dump\\commerce-api-master\\commerce-api-master\\Commerce.Domain\\Commerce.Domain.csproj"
+              "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj": {
+                "projectPath": "D:\\Hacktober\\Commerce.Domain\\Commerce.Domain.csproj"
               }
             }
           }
@@ -328,7 +326,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
